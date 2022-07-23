@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msarmadsohail
 - 👀 I’m interested in computer programing and electrical engineering
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning HTML / CSS / JavaScript / C / C++ / Embedded C / Python
 - 💞️ I’m looking to collaborate on medium scale projects
 - 📫 Youcan reach me at 
       https://github.com/msarmadsohail
