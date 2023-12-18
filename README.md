@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @msarmadsohail
 - 👀 I’m interested in computer programing and electrical engineering
-- 🌱 I’m currently learning HTML / CSS / JavaScript / C / C++ / Embedded C / Python
-- 💞️ I’m looking to collaborate on medium scale projects
+- 🌱 I’m currently learning Qiskit with advanced level skills in Tensorflow, PyTorch, Python and Embedded C 
+- 💞️ I’m looking to collaborate on exciting projects and contributions
 - 📫 Youcan reach me at 
       https://github.com/msarmadsohail
       https://www.facebook.com/muhammadsarmad.sohail
