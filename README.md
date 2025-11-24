@@ -31,8 +31,7 @@ Previously, I worked in **Analog & Mixed Signal IC Design** where I have designe
 ---
 
 ### Research
-- **Optimizing Resource Allocation in MEC-Enabled CR-NOMA Networks using Deep Reinforcement Learning**
-
+- **Optimizing Resource Allocation in MEC-Enabled CR-NOMA Networks using Deep Reinforcement Learning**  
   *Published at IEEE WCNC 2024 (Wireless Communications and Networking Conference).*
 
 ---
