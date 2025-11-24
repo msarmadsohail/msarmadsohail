@@ -33,8 +33,18 @@ Previously, I worked in **Analog & Mixed Signal IC Design** where I have designe
 ---
 
 ### Research
-- **Optimizing Resource Allocation in MEC-Enabled CR-NOMA Networks using Deep Reinforcement Learning**  
-  *Published at IEEE WCNC 2024 (Wireless Communications and Networking Conference).*
+**Optimizing Resource Allocation in MEC-Enabled CR-NOMA Networks using Deep Reinforcement Learning**  
+*Published at IEEE WCNC 2024 (Wireless Communications and Networking Conference).*
+
+
+This paper introduces an RL-driven framework where an energy-harvesting IoT device offloads computation to a nearby MEC server using CR-NOMA transmission.  
+A Deep Deterministic Policy Gradient (DDPG) agent dynamically allocates time between:
+
+- Data transmission  
+- Energy harvesting  
+- Local processing  
+
+to **minimize service delay** while maintaining energy sustainability.
 
 ---
 
