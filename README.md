@@ -38,10 +38,10 @@ Previously, I worked in **Analog & Mixed Signal IC Design** where I have designe
 
 ---
 
-### Find moe about Me
-- 🌐 **Portfolio:** (coming soon — GitHub Pages)  
-- 💼 **LinkedIn:** https://linkedin.com/in/msarmadsohail  
-- 🧪 **GitHub:** https://github.com/msarmadsohail  
+### Reach Me
+- **Profile:** (coming soon — GitHub Pages)  
+- **LinkedIn:** https://linkedin.com/in/msarmadsohail  
+- **GitHub:** https://github.com/msarmadsohail  
 
 
 
