@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on exciting projects and contributions
 - 📫 Youcan reach me at 
       https://github.com/msarmadsohail
-      https://www.facebook.com/muhammadsarmad.sohail
 
 
 <!---
