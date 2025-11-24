@@ -16,8 +16,10 @@ Previously, I worked in **Analog & Mixed Signal IC Design** where I have designe
 ---
 
 ### Featured Projects
+<!---
 - **Synthetic Data Pipeline**  
   ETL pipelines, profiling, anonymization, PySpark workflows, and FastAPI endpoints.
+--->
 
 - **DDPG for MEC-NOMA Resource Allocation (FYP)**  
   Complete DRL implementation of computation offloading & power optimization.  
