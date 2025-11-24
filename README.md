@@ -1,4 +1,4 @@
-## Hi there, I'm Sarmad 👋  
+## Hi there, I'm Sarmad 
 **Data Engineer | Machine Learning Engineer**
 
 I'm a Data Engineer at **ASCEND Synthetic Data Platform** where I work on building distributed data pipelines, FastAPI microservices, and synthetic data generation systems.  
@@ -6,7 +6,7 @@ Previously, I worked in **Analog & Mixed Signal IC Design** where I have designe
 
 ---
 
-### 🚀 Key Skills
+### Key Skills
 - **Languages:** Python, MATLAB, C/C++, Verilog, Bash  
 - **Data & MLOps:** PySpark, FastAPI, SQL, ETL Pipelines, Synthetic Data, Feature Engineering  
 - **Machine Learning:** TensorFlow, PyTorch, Deep RL (DDPG), Transformers, Generative AI  
@@ -32,6 +32,7 @@ Previously, I worked in **Analog & Mixed Signal IC Design** where I have designe
 
 ### Research
 - **Optimizing Resource Allocation in MEC-Enabled CR-NOMA Networks using Deep Reinforcement Learning**
+
   *Published at IEEE WCNC 2024 (Wireless Communications and Networking Conference).*
 
 ---
@@ -44,6 +45,6 @@ Previously, I worked in **Analog & Mixed Signal IC Design** where I have designe
 
 
 <!---
-msarmadsohail/msarmadsohail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+msarmadsohail/msarmadsohail is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
