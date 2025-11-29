@@ -1,7 +1,7 @@
 ## Hi there, I'm Sarmad 
 **Data Engineer | Machine Learning Engineer**
 
-I'm a Data Engineer at **ASCEND Synthetic Data Platform** where I work on building distributed data pipelines, FastAPI microservices, and synthetic data generation systems.  
+I'm a Data Engineer at **Adept Tech Solutions** where I work on building distributed data pipelines, FastAPI microservices, and synthetic data generation systems.  
 Previously, I worked in **Analog & Mixed Signal IC Design** where I have designed components like SAR ADCs, comparators, RFID Transponder Chips.
 
 ---
