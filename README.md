@@ -49,7 +49,7 @@ to **minimize service delay** while maintaining energy sustainability.
 ---
 
 ### Reach Me
-- **Profile:** (coming soon — GitHub Pages)  
+- **Profile:** https://msarmadsohail.github.io/
 - **LinkedIn:** https://linkedin.com/in/msarmadsohail  
 - **GitHub:** https://github.com/msarmadsohail  
 
